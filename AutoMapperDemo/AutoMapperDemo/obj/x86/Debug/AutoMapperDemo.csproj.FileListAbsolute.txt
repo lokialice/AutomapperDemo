@@ -1,0 +1,10 @@
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.exe.config
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.exe
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapperDemo.pdb
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapper.dll
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapper.Net4.dll
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\Bootstrapper.AutoMapper.dll
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\Bootstrapper.dll
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\bin\Debug\AutoMapper.xml
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\obj\x86\Debug\AutoMapperDemo.exe
+C:\Users\phi.hoang\Desktop\AutoMapperDemo\AutoMapperDemo\obj\x86\Debug\AutoMapperDemo.pdb
